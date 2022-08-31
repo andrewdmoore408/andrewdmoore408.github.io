@@ -3511,6 +3511,10 @@ input, select, textarea {
 
 	}
 
+  #nameHeader {
+    font-family: Georgia, Merriweather, Cambria, Times, serif;
+  }
+
   #headshot {
     width: 29%;
     border-radius: 50%;
