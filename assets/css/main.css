@@ -3510,3 +3510,8 @@ input, select, textarea {
 			}
 
 	}
+
+  #headshot {
+    width: 29%;
+    border-radius: 50%;
+  }
