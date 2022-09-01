@@ -3537,3 +3537,12 @@ input, select, textarea {
   a.bubbleLink:hover {
     color: #222 !important;
   }
+
+  .centerText {
+    text-align: center;
+  }
+
+  .bubbleMainImage {
+    width: 50% !important;
+    margin: auto !important;
+  }
