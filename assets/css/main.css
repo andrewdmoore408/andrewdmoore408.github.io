@@ -3013,8 +3013,12 @@ input, select, textarea {
 			margin: 0;
 		}
 
+    #header img {
+      margin-top: -3%;
+    }
+
 		#header p {
-			margin: 1em 10% 0 10%;
+			margin: 1em 7% 0 7%;
 		}
 
 		#header .actions {
@@ -3520,6 +3524,6 @@ input, select, textarea {
   }
 
   #headshot {
-    width: 29%;
+    width: 200px;
     border-radius: 50%;
   }
